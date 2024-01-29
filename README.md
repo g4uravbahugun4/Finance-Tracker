@@ -1,4 +1,4 @@
-##starting the backend server
+## starting the backend server
 <br/>
 Open a terminal from the cloned repository directory
 
@@ -32,7 +32,7 @@ node server.js
 <br/>
 <br/>
 
-##starting the frontend server
+## starting the frontend server
 
 open a new terminal from the cloned repo directory 
 
